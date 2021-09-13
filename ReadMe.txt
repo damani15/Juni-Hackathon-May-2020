@@ -1,4 +1,6 @@
-This is our submisssion to the Juni May Hackathon.
+# The Covid Tracker
+
+This is our submisssion to the Juni May 2020 Hackathon.
 If the project is not compiling make sure you have the following dependencies added in Intelij. 
 
 com.github.cliftonlabs:json-simple:3.1.1
